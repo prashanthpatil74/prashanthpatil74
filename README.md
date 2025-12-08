@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prashant Patil</h1>
-<h3 align="center">Results-driven data science with expertise in Python, SQL, and big data tools such as Spark, Hadoop, and Hive. Skilled in data analysis, machine learning, and deep learning using libraries like NumPy, Pandas, Scikit-learn, TensorFlow, and OpenCV. Knowledgeable in natural language processing (NLP) with NLTK and spaCy, and proficient in data visualization with Matplotlib and Seaborn. Adept at processing large-scale data and building end-to-end data solutions.</h3>
+<h3 align="center">Results-driven data science professional with expertise in Python and SQL. Skilled in data analysis, machine
+learning, and deep learning using libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and OpenCV. Proficient in natural language processing (NLP) using NLTK and spaCy, and experienced in data visualization
+with Matplotlib, Seaborn, and Power BI. Adept at processing complex datasets and building end-to-end data
+solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthpatil74&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthpatil74" /> </p>
 
