@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Patil</h1>
-<h3 align="center">Results-driven data science professional with expertise in Python and SQL. Skilled in data analysis, machine
-learning, and deep learning using libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and OpenCV. Proficient in natural language processing (NLP) using NLTK and spaCy, and experienced in data visualization
+<h3 align="center"> Results-driven data science professional with expertise in Python and SQL. Skilled in data analysis, machine
+learning, and deep learning using libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and OpenCV.
+Proficient in natural language processing (NLP) using NLTK and spaCy, and experienced in data visualization
 with Matplotlib, Seaborn, and Power BI. Adept at processing complex datasets and building end-to-end data
 solutions.</h3>
 
